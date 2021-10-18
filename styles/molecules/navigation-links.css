@@ -1,0 +1,7 @@
+.navigation__links{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    width: 300px;
+}

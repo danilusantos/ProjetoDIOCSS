@@ -1,0 +1,44 @@
+/* Atoms */
+@import "../atoms/photo-image.css";
+@import "../atoms/nav/item-link.css";
+@import "../atoms/aside/person-name.css";
+@import "../atoms/aside/person-details.css";
+@import "../atoms/aside/social-icon-item.css";
+@import "../atoms/main/main-description.css";
+@import "../atoms/main/main-title.css";
+@import "../atoms/main/label.css";
+@import "../atoms/main/button.css";
+@import "../atoms/main/input.css";
+@import "../atoms/footer/footer-subtitle.css";
+@import "../atoms/main/main-project-thumb.css";
+
+/* Molecules */
+@import "../molecules/navigation-links.css";
+@import "../molecules/social-icon-list.css";
+@import "../molecules/main-about.css";
+@import "../molecules/description-block.css";
+@import "../molecules/main-contact.css";
+@import "../molecules/main-contact-form.css";
+@import "../molecules/main-projects-thumblist.css";
+@import "../molecules/aside-person-list.css";
+@import "../molecules/aside-social-icon-list.css";
+@import "../molecules/main-projects.css";
+@import "../molecules/aside-person-list.css";
+@import "../molecules/aside-social-list.css";
+
+/* Organisms */
+@import "../organisms/nav.css";
+@import "../organisms/main.css";
+@import "../organisms/aside.css";
+@import "../organisms/footer.css";
+
+/* Pages */
+@import "../pages/grid.css";
+
+body{
+    margin: auto;
+}
+
+.center{
+    text-align: center;
+}
